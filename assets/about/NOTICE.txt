@@ -1,0 +1,9 @@
+brain.bin: nuvem de pontos derivada do atlas MNI ICBM 152 Nonlinear Symmetric 2009a, com as dobras
+corticais geradas por processo procedural sobre a forma do atlas.
+
+Copyright (C) 1993-2009 Louis Collins, McConnell Brain Imaging Centre,
+Montreal Neurological Institute, McGill University.
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose
+and without fee is hereby granted, provided that the above copyright notice appear in all copies.
+The authors and McGill University make no representations about the suitability of this software
+for any purpose. Fonte: https://nist.mni.mcgill.ca/icbm-152-nonlinear-atlases-2009/
